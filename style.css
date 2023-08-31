@@ -1,0 +1,34 @@
+body {
+ font-family: sans-serif;
+}
+
+header {
+ background-color: #000;
+ color: #fff;
+}
+
+h1 {
+ font-size: 2rem;
+}
+
+nav a {
+ color: #fff;
+}
+
+main {
+ background-color: #fff;
+}
+
+section {
+ padding: 1rem;
+}
+
+h2 {
+ font-size: 1.5rem;
+}
+
+footer {
+ background-color: #000;
+ color: #fff;
+ padding: 1rem;
+}
